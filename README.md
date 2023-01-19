@@ -38,4 +38,13 @@ python inference.py
 ```
 python gradcam.py
 ```
+Publications:
+
+*  H. Kuht, S. Wang, G. Nishad, S. George, G. Maconachie, V. Sheth, Z. Tu, M. Hisaund, R.
+McLean, S. Teli,et al. Using artificial intelligence (AI) to classify retinal developmental disor-
+ders. Investigative Ophthalmology & Visual Science, 61(7):4030–4030, 2020. [Link](https://iovs.arvojournals.org/article.aspx?articleid=2769372)
+*  H. J. Kuht, G. Nishad, S. S. Wang, G. Maconachie, V. Sheth, Z. Tu, M. Hisaund, R. J. McLean,
+R. Purohit, S. Teli, et al. A machine learning solution to predict foveal development and visual
+prognosis in retinal developmental disorders. Investigative Ophthalmology & Visual Science,
+62(8):2739–2739, 2021. [Link](https://iovs.arvojournals.org/article.aspx?articleid=2775782)
 
