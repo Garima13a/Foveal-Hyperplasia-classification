@@ -1,4 +1,4 @@
-This repository contains a dataset for classifying neuroretinal images into either abnormal or normal classes, and a six-class system (Grade 1, Grade 2, Grade 3, Grade 4, Atypical, and Normal). The dataset is divided into three sections: Bioptigen, Copernicus, and Combined.
+The dataset is divided into three sections: Bioptigen, Copernicus, and Combined.
 
 ## Dataset location
 The dataset can be found in the following directory: /data/neuroretinal/
