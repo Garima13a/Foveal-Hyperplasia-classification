@@ -34,4 +34,8 @@ python inference.py
 
 ```
 
+### Gradcam
+```
+python gradcam.py
+```
 
